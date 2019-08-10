@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     backgroundStyle: {
         backgroundColor: '#f0EEEE',
         height: 50,
-        margin: 15,
+        margin: 10,
         borderRadius: 10,
         flexDirection: 'row',
     },
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     iconStyle: {
         fontSize: 35,
         alignSelf: 'center',
-        marginHorizontal: 15,
+        marginHorizontal: 10,
     },
 });
 
