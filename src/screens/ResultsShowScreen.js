@@ -39,7 +39,9 @@ const ResultShowScreen = ({ navigation }) => {
 const styles = StyleSheet.create({
     imageStyle: {
         height: 200,
-        width: 300
+        width: 300,
+        margin: 5,
+        borderRadius: 5
     },
     titleStyle: {
         fontSize: 18,
